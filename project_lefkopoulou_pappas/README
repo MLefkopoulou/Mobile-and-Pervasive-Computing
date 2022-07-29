@@ -1,0 +1,7 @@
+In order to run the experiments, first you must run the server, and then the client.
+In order to run the server, first you must run python/python3 server.py -h
+Then run the server with the parameters you want
+In order to run the client, first you must run python/python3 client.py -h
+Then run the client with the parameters you want
+
+The client program will generate a stream of data items, and then it will begin the access them.
